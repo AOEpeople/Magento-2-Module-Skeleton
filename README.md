@@ -32,6 +32,25 @@ use a new directory. We call it ```doc```. Due to that, we will continue this do
 
 ## Quality of Code
 
+### Security Advisories
+
+Make sure, your composer Packages do not contain any security issues. Validate your composer files by:
+
+- [Security Advisories by Friends of PHP](https://github.com/FriendsOfPHP/security-advisories)
+- [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories)
+
+### Magento 2 Coding Standards
+
+* [Magento 2 Code demarcation standard](http://devdocs.magento.com/guides/v2.0/coding-standards/code-standard-demarcation.html)
+* [Magento 2 PHP coding standard](http://devdocs.magento.com/guides/v2.0/coding-standards/code-standard-php.html)
+* [Magento 2 Code sniffers](http://devdocs.magento.com/guides/v2.0/coding-standards/code-standard-sniffers.html)
+* [Magento 2 JavaScript coding standard](http://devdocs.magento.com/guides/v2.0/coding-standards/code-standard-javascript.html)
+* [Magento 2 jQuery widget coding standard](http://devdocs.magento.com/guides/v2.0/coding-standards/code-standard-jquery-widgets.html)
+* [Magento 2 DocBlock standard](http://devdocs.magento.com/guides/v2.0/coding-standards/docblock-standard-general.html)
+* [Magento 2 JavaScript DocBlock standard](http://devdocs.magento.com/guides/v2.0/coding-standards/docblock-standard-javascript.html)
+* [Magento 2 LESS coding standard](http://devdocs.magento.com/guides/v2.0/coding-standards/code-standard-less.html)
+* [Magento 2 HTML style guide](http://devdocs.magento.com/guides/v2.0/coding-standards/code-standard-html.html)
+
 ## Legal Advices and Licenses
 
 ## Templates for Specification and Documentation
