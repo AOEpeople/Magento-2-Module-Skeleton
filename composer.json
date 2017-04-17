@@ -2,6 +2,9 @@
     "name": "aoe/module-skeleton",
     "description": "This Module provides a basic Skeleton for further Magento 2 Modules.",
     "license": "GPL-3.0",
+    "type": "magento2-module",
+    "homepage": "http://aoe.com/",
+    "keywords":[ "composer-installer", "magento", "Magento 2 Module", "Skeleton", "Magento 2", "AOE"],
     "authors": [
         {
             "email": "david.lambauer@aoe.com",
