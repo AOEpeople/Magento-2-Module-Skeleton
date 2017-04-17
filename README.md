@@ -55,6 +55,16 @@ Make sure, your composer Packages do not contain any security issues. Validate y
 
 ## Templates for Specification and Documentation
 
+* [Module README Template](https://github.com/AOEpeople/Magento-2-Module-Skeleton/blob/master/src/doc/README.template.md)
+* [README Specification Template](https://github.com/AOEpeople/Magento-2-Module-Skeleton/blob/master/src/doc/README_SPECIFICATION.md)
+* [Contribution Guide Template](https://github.com/AOEpeople/Magento-2-Module-Skeleton/blob/master/src/doc/CONTRIBUTITION.template.md)
+
+### API Documentation 
+
+* [RAML](http://raml.org/)
+* [Swagger](http://swagger.io/)
+
 ## Basic Setup for Tests
+
 
 ## Tools to get up and running
