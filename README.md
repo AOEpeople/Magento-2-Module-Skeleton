@@ -16,11 +16,11 @@ If you think, you have alternative methods or another way of thinking, please fe
 
 This Skeleton tries to cover several aspects:
 
-* Quality of Code
-* Legal Advices and Licenses
-* Templates for Specification and Documentation
-* Basic Setup for Tests
-* Tools to get up and running
+* [Quality of Code](#quality-of-code)
+* [Legal Advices and Licenses](#legal-advices-and-licenses)
+* [Templates for Specification and Documentation](#templates-for-specification-and-documentation)
+* [Basic Setup for Tests](#basic-setup-for-tests)
+* [Tools to get up and running](#tools-to-get-up-and-running)
 
 ## About this README
 
