@@ -32,6 +32,37 @@ use a new directory. We call it ```doc```. Due to that, we will continue this do
 
 ## Quality of Code
 
+### Magento 2 PHP Mess Detector
+
+Magento 2 uses a custom Mess Detector Ruleset. You will find it under:
+
+```
+/dev/tests/static/testsuite/Magento/Test/Php/_files/phpmd/ruleset.xml
+```
+
+To run the Mess Detector via console, you can run: 
+
+``` bash
+# Run in Magento 2 root
+php vendor/bin/phpmd app/code/ text dev/tests/static/testsuite/Magento/Test/Php/_files/phpmd/ruleset.xml
+```
+
+or 
+
+``` bash
+# Run in Magento 2 root
+php bin/magento dev/test/run static
+```
+
+### Magento 2 PHP Code Style
+
+Magento 2 also comes with a custom Code Style Ruleset. You can run the Codesniffer via console with the following commands:
+
+``` bash
+# Run in Magento 2 root
+php vendor/bin/phpcs .
+```
+
 ### Security Advisories
 
 Make sure, your composer Packages do not contain any security issues. Validate your composer files by:
