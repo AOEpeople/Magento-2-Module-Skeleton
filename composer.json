@@ -12,9 +12,18 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "magento/framework": "100.*",
+        "php": ">=7.0.14"
+    },
     "require-dev": {
         "fzaninotto/faker": "^1.6"
+    },
+    "repositories": {
+        "magento": {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        }
     },
     "autoload": {
         "files": [
