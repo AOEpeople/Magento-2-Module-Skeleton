@@ -1,0 +1,24 @@
+{
+    "name": "aoe/module-skeleton",
+    "description": "This Module provides a basic Skeleton for further Magento 2 Modules.",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "email": "david.lambauer@aoe.com",
+            "name": "David Lambauer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "fzaninotto/faker": "^1.6"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Aoe\\Skeleton\\": ""
+        }
+    }
+}

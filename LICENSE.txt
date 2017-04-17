@@ -1,0 +1,3 @@
+YOUR LICENSE TEXT GOES HERE.
+
+Find your preferred license at https://opensource.org/licenses
