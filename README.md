@@ -95,6 +95,11 @@ Make sure, your composer Packages do not contain any security issues. Validate y
 * [RAML](http://raml.org/)
 * [Swagger](http://swagger.io/)
 
+## Common Specifications
+
+* [Semantic Versioning](http://semver.org/)
+* [Changelog](http://keepachangelog.com/en/0.3.0/)
+
 ## Basic Setup for Tests
 
 
