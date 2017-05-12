@@ -1,4 +1,4 @@
-# Magento 2 Module Skeleton
+# WIP - Magento 2 Module Skeleton
 
 <h1 align="center">
 	<br>
