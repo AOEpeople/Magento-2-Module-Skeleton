@@ -14,7 +14,8 @@
     "minimum-stability": "dev",
     "require": {
         "magento/framework": "100.*",
-        "php": ">=7.0.14"
+        "php": ">=7.0.14",
+        "roave/security-advisories": "dev-master"
     },
     "require-dev": {
         "fzaninotto/faker": "^1.6"
