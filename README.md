@@ -1,5 +1,8 @@
 # WIP - Magento 2 Module Skeleton
 
+If you decided to make an open source module, you should make sure that ever body understand what you did. To make your work less harder, 
+I want to provide a Skeleton Module. Checkout this module, remove the parts you do not need and fill out the gabs you think they are useful.
+
 <h1 align="center">
 	<br>
 	<a href="https://www.aoe.com/en/home.html" title="AOE GmbH Logo - the open web company"><img src="https://www.aoe.com/typo3conf/ext/aoe7lts_base/Resources/Public/Images/styling/AOE-Logo.svg" width="300" title="AOE GmbH - the open web company"/></a>
@@ -101,6 +104,7 @@ Make sure, your composer Packages do not contain any security issues. Validate y
 * [Changelog](http://keepachangelog.com/en/0.3.0/)
 
 ## Basic Setup for Tests
+
 
 
 ## Tools to get up and running
