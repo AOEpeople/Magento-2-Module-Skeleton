@@ -1,4 +1,4 @@
-# WIP - Magento 2 Module Skeleton
+# WIP - Magento 2 Module Skeleton [![Dependency Status](https://www.versioneye.com/user/projects/59214d51da94de0056ebdda2/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/59214d51da94de0056ebdda2)
 
 If you decided to make an open source module, you should make sure that ever body understand what you did. To make your work less harder, 
 I want to provide a Skeleton Module. Checkout this module, remove the parts you do not need and fill out the gabs you think they are useful.
