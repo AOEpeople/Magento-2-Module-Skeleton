@@ -95,10 +95,14 @@ Make sure, your composer Packages do not contain any security issues. Validate y
 
 ### API Documentation 
 
+The following resource links are a good entry point to document API's in generell. 
+
 * [RAML](http://raml.org/)
 * [Swagger](http://swagger.io/)
 
 ## Common Specifications
+
+To make sure, your project is perfectly maintained, I would recommend to use Semantic Versioning and a Changelog in a specific format. You will find more information about these two topics in the following links:
 
 * [Semantic Versioning](http://semver.org/)
 * [Changelog](http://keepachangelog.com/en/0.3.0/)
@@ -108,3 +112,7 @@ Make sure, your composer Packages do not contain any security issues. Validate y
 
 
 ## Tools to get up and running
+
+The following tools are personal recommandations and are used to handle common generating and/or documentating tasks.
+
+### Robo Task Runner
