@@ -1,0 +1,55 @@
+#######################################################################
+# This file is used to generate a documentation with mkdocs. 
+# In case you are not familiar with the tool itself, make sure you
+# check out the following links:
+#
+# * http://squidfunk.github.io/mkdocs-material/getting-started/
+# * http://facelessuser.github.io/pymdown-extensions/
+# * http://www.mkdocs.org/
+#######################################################################
+
+# Project information
+site_name: 'YOUR PROJECTNAME HERE'
+site_description: 'ADD A SHORT PROJECT DESCRIPTION HERE'
+site_author: 'YOUR NAME'
+site_url: 'https://THATS-MY-URL.COM'
+
+docs_dir: ./../src/doc/
+
+# Repository
+repo_name: 'my-github-handle/my-project'
+repo_url: 'https://github.com/my-github-handle/my-project'
+
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2017 YOUR NAME'
+
+# Documentation and theme
+theme: 'material'
+
+# Options
+extra:
+  logo: 'images/logo.svg'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  social:
+    - type: 'github'
+      link: 'https://github.com/john-doe'
+    - type: 'twitter'
+      link: 'https://twitter.com/jonh-doe'
+    - type: 'linkedin'
+      link: 'https://de.linkedin.com/in/john-doe'
+
+# Google Analytics
+google_analytics:
+  - 'UA-XXXXXXXX-X'
+  - 'auto'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite(guess_lang=false)
+  - toc(permalink=true)
