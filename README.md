@@ -115,4 +115,14 @@ To make sure, your project is perfectly maintained, I would recommend to use Sem
 
 The following tools are personal recommandations and are used to handle common generating and/or documentating tasks.
 
-### Robo Task Runner
+### Changelog Generator
+
+[https://github.com/skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator)
+
+### Contribution Guide Generator
+
+[https://github.com/WeAllJS/weallcontribute](https://github.com/WeAllJS/weallcontribute)
+
+### Code of Conduct Generator
+
+[https://github.com/WeAllJS/weallbehave](https://github.com/WeAllJS/weallbehave)
